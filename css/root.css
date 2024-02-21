@@ -1,0 +1,34 @@
+:root{
+    /*GENERAL*/
+    --page-background:#0F172A;
+    --infiniteGridColor:#E71D36;
+    --violet-logo:#E71D36;
+    
+    /* CAKE PALETTE*/
+    --cake-pink:#E71D36;
+    --cake-violet:#E71D36;
+    --cake-purple:#1d0404a8;
+
+    /* VIVID PALETTE */
+    --vi-pink:#fdb927;
+    --vi-cyan:#E71D36;
+
+    /* GRAYSMOKE PALETTE*/
+    --gs-verylightgray:#717171;
+    --gs-ligthgray:#414141;
+    --gs-midgray:#313131;
+    --gs-middlergray:#333;
+    --gs-darkgray:#212121;
+
+    /* BRANDS */
+    --github: #E71D36;
+    --twitter: #55ACEE;
+    --instagram: #E4405F;
+    --youtube-play:red;
+    --spotify:green;
+
+    /*WAVE-CARDS*/
+    --wave-purple:#939597;
+    --wave-blue:#E71D36;
+    --wave-cyan:#2D3142;
+}
